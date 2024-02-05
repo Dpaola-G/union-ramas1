@@ -5,19 +5,6 @@
             background-color: #f4f4f4;
         }
 
-        header {
-            background-color:  #1357c5b9;
-            color: #fff;
-            padding: 10px;
-            text-align: center;
-        }
-
-        main {
-            padding: 20px;
-            text-align: center;
-            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-            font-size: 1.3rem;
-        }
 
         footer {
             background-color: #333;
